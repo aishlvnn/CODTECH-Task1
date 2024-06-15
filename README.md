@@ -1,9 +1,14 @@
 # CODTECH-Task1
 Name: Aaishah Sheikh
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08PP700
+
 Domain: Data Science
+
 Duration: May to June 2024
+
 Mentor: G. Sravani e
 
 Task 1: Deep Learning For Image Recognition
